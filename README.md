@@ -7,6 +7,8 @@ space and aeronautics codes used in aerospace engineering assignments
 - Interestellar.ipynb
   Application of concepts on the astrodynamics assignature in the realization of a program capable of calculate the trajectories between sun and other stars. The example is Alpha Centauri
 
-- Matching chart
+- Matching_chart.ipynb
   Application of concepts on the aerospace design assignature to realize the matching chart proccess for a coast MALE UAV design.
 
+- RadarCoverage.ipynb
+  Application of radar line-of-sight concept to design a Algorithm for radar design using DEM file.
